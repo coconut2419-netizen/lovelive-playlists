@@ -1,0 +1,34 @@
+{
+  "title": "ラブライブ！フェス2026予習",
+  "description": "2026年11月14日のラブライブ！シリーズ合同フェスに向けた予習用プレイリスト。代表曲・ライブ定番・出演グループの重要曲を中心に更新します。",
+  "tracklist": [
+    {"title": "僕らのLIVE 君とのLIFE", "artists": ["μ's"]},
+    {"title": "僕らは今のなかで", "artists": ["μ's"]},
+    {"title": "Snow halation", "artists": ["μ's"]},
+    {"title": "No brand girls", "artists": ["μ's"]},
+    {"title": "START:DASH!!", "artists": ["μ's"]},
+
+    {"title": "君のこころは輝いてるかい？", "artists": ["Aqours"]},
+    {"title": "青空Jumping Heart", "artists": ["Aqours"]},
+    {"title": "HAPPY PARTY TRAIN", "artists": ["Aqours"]},
+    {"title": "未来の僕らは知ってるよ", "artists": ["Aqours"]},
+    {"title": "WATER BLUE NEW WORLD", "artists": ["Aqours"]},
+
+    {"title": "TOKIMEKI Runners", "artists": ["虹ヶ咲学園スクールアイドル同好会"]},
+    {"title": "Love U my friends", "artists": ["虹ヶ咲学園スクールアイドル同好会"]},
+    {"title": "虹色Passions！", "artists": ["虹ヶ咲学園スクールアイドル同好会"]},
+    {"title": "Colorful Dreams! Colorful Smiles!", "artists": ["虹ヶ咲学園スクールアイドル同好会"]},
+
+    {"title": "始まりは君の空", "artists": ["Liella!"]},
+    {"title": "START!! True dreams", "artists": ["Liella!"]},
+    {"title": "WE WILL!!", "artists": ["Liella!"]},
+    {"title": "シェキラ☆☆☆", "artists": ["Liella!"]},
+
+    {"title": "Dream Believers", "artists": ["蓮ノ空女学院スクールアイドルクラブ"]},
+    {"title": "On your mark", "artists": ["蓮ノ空女学院スクールアイドルクラブ"]},
+    {"title": "KEY of Like！", "artists": ["蓮ノ空女学院スクールアイドルクラブ"]},
+    {"title": "Link to the FUTURE", "artists": ["蓮ノ空女学院スクールアイドルクラブ"]},
+
+    {"title": "What is my LIFE?", "artists": ["いきづらい部！"]}
+  ]
+}
